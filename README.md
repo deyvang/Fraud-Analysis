@@ -1,4 +1,4 @@
-# RJPOLICE_HACK_680_Sangyan_07
+#Fraud Analysis
 
 Working on our project with three different branches, dividing work among the team as per the required Tech Stacks of different individuals:
 
@@ -15,6 +15,7 @@ Completed authentication connection to the backend for both.
 Completion of ML models(Bank Trans).
 Completion of ML models(UPI Trans).
 Done with UI/UX of LLM-based Chatbot.
+
 #Upcoming Progress:
 
 Integration of ML model with Flask.
